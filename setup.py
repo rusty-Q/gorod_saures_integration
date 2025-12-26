@@ -11,7 +11,7 @@ setup(
     description="Интеграция данных счетчиков из UK_GOROD и Saures API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/rusty-Q/hass-saures",
+    url="https://github.com/rusty-Q/gorod_saures_integration.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
