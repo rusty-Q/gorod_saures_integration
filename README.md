@@ -1,6 +1,6 @@
 # UK-Saures Integration
 
-Библиотека для интеграции данных счетчиков из UK_GOROD и Saures API.
+Библиотека для интеграции данных счетчиков из [UK_GOROD](https://nd.inno-e.ru) и [Saures API](https://api.saures.ru/doc/1.0/).
 
 ## Установка
 
