@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="uk-saures-integration",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="rusty-Q",
+    author_email="rustam2701@yandex.ru",
     description="Интеграция данных счетчиков из UK_GOROD и Saures API",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -15,7 +15,7 @@ setup(
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: GPL-3.0-only",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.7",
