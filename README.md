@@ -31,7 +31,7 @@ uk-saures-integrate
 # Или через Python
 python -m uk_saures_integration.cli
 ```
-### Конфигурация secrets.yaml
+### Конфигурация ```secrets.yaml```
 ```yaml
 services:
   - name: uk_gorod
